@@ -19,8 +19,4 @@
     <PackageReference Include="SpecRun.Runner" Version="3.0.391" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="dynamicTables\" />
-  </ItemGroup>
-
 </Project>
